@@ -1,0 +1,12 @@
+Запуск программы
+Уведомление об ошибке
+Уведомление о критической ошибке
+Now listening on: https://localhost:7071
+Now listening on: http://localhost:5018
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\vlada\source\repos\Lab7\Lab7
+Переход на страницу Privacy
+Переход на страницу Privacy
+Переход на страницу ошибки
+Application is shutting down...

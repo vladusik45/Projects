@@ -1,0 +1,16 @@
+from exceptions import *
+if __name__ == "__main__":
+    zero_division(5)
+    index_out_of_range()
+    process_number("stroka")
+    divide_numbers(2, 0)
+    safe_divide(4, 0)
+    access_list_element([3,4,5], "10")
+    validate_string("fjdkfj", 10, "5")
+    process_number(4.6, 0.0)
+    test_validate_age()
+    test_withdraw()
+    test_perform_operation()
+    check_empty_file("non_existent_file.txt")
+    check_number_in_range(200)
+    connect_to_database("")

@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\models\\createticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\models\\createticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\authorization\\authextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\authorization\\authextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\authorization\\authsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\authorization\\authsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\authorization\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\authorization\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\authorization\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\authorization\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\authorization\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\authorization\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\migrations\\20250111013107_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\migrations\\20250111013107_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|c:\\users\\vlada\\source\\repos\\supportticketsystem\\supportticketsystem\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E7F3AE-57BC-4462-9F8E-4F3F6B564EF2}|SupportTicketSystem\\SupportTicketSystem.csproj|solutionrelative:supportticketsystem\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Authorization\\AuthExtensions.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Authorization\\AuthExtensions.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Authorization\\AuthExtensions.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Authorization\\AuthExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:58:33.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:33:13.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Models\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:33:46.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:18:56.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\AdminService.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\AdminService.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\AdminService.cs",
+              "RelativeToolTip": "SupportTicketSystem\\AdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:20:13.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\TicketService.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\TicketService.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\TicketService.cs",
+              "RelativeToolTip": "SupportTicketSystem\\TicketService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:06:59.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Controllers\\TicketController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwEEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:06:12.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTicketDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Models\\CreateTicketDTO.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Models\\CreateTicketDTO.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Models\\CreateTicketDTO.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Models\\CreateTicketDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:29:45.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Program.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:22:27.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthSettings.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Authorization\\AuthSettings.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Authorization\\AuthSettings.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Authorization\\AuthSettings.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Authorization\\AuthSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:55:08.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Authorization\\JWTService.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Authorization\\JWTService.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Authorization\\JWTService.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Authorization\\JWTService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:56:04.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Authorization\\UserService.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Authorization\\UserService.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Authorization\\UserService.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Authorization\\UserService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA5wBwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:39:01.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Authorization\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Authorization\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Authorization\\UserRepository.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Authorization\\UserRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:43:04.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:32:32.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250111013107_init.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Migrations\\20250111013107_init.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Migrations\\20250111013107_init.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Migrations\\20250111013107_init.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Migrations\\20250111013107_init.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:31:07.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SupportTicketSystem\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:23:04.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\appsettings.json",
+              "RelativeToolTip": "SupportTicketSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T01:10:21.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Models\\User.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:10:47.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "SupportTicketSystem\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\vlada\\source\\repos\\SupportTicketSystem\\SupportTicketSystem\\Models\\Ticket.cs",
+              "RelativeToolTip": "SupportTicketSystem\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:10:56.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
